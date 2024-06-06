@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CW2</string>
+    <string name="title_activity_search_for_clubs">SearchForClubs</string>
+    <string name="title_activity_add_leagues">AddLeagues</string>
+    <string name="title_activity_search_for_clubs_by_leagues">SearchForClubsByLeagues</string>
+    <string name="title_activity_jersey_retrieval">JerseyRetrieval</string>
+</resources>
