@@ -8,7 +8,7 @@ trigger:
 - master
 
 pool:
-  vmImageName: 'azure-pipelines'
+  vmImageName: 'macos-latest'
 
 steps:
 - task: Gradle@2
