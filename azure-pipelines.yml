@@ -8,7 +8,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'android-latest'
+  vmImageName: 'android-latest'
 
 steps:
 - task: Gradle@2
